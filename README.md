@@ -1,6 +1,6 @@
 ### Hola mundo! ✌🏼
 
-Data Science and Web Development enthusiast learner.
+Data Science and Web Development enthusiast learner.<br>
 Physics, Astronomy and Spanish enthusiast teacher.
 
 <!--
