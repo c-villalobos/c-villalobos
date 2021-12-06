@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola mundo! ✌🏼
+
+Data Science and Web Development enthusiast learner.
+Physics, Astronomy and Spanish enthusiast teacher.
 
 <!--
 **c-villalobos/c-villalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
