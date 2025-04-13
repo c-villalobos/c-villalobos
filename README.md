@@ -1,9 +1,11 @@
 ### Hola mundo! ✌🏼
 
-Python enthusiast learner.<br>
-Physics and Astronomy enthusiast teacher.
-
-Currently coding for living.
+I've been known for:
+- Learning physics
+- Teaching physics
+- Teaching for living
+- Learning Python
+- Coding for living
 
 <!--
 **c-villalobos/c-villalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
